@@ -1,0 +1,12 @@
+GET http://api.telegram.org
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET /api.telegram.org
+Accept: */*
+Cache-Control: no-cache
+
+###
+

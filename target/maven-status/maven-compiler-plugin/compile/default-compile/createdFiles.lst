@@ -1,0 +1,4 @@
+com\ershov\telegram\aliexpressbot\common\ProductInfoRq.class
+com\ershov\telegram\aliexpressbot\http\Client.class
+com\ershov\telegram\aliexpressbot\main\Bot.class
+com\ershov\telegram\aliexpressbot\AliexpressbotApplication.class
